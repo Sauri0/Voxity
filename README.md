@@ -6,7 +6,7 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 ## Cómo jugar (3 pasos)
 
-1. **Bajá el lanzador:** [**VoxityLanzador.exe**](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (20 KB).
+1. **Bajá el lanzador:** [**VoxityLanzador.exe**](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (menos de 1 MB, con el ícono de la fogata).
 2. **Abrilo.** La primera vez te pregunta en qué carpeta instalar, deja un acceso directo **Voxity** en el escritorio y te ofrece bajar el juego: unos 350 MB, una sola vez.
 3. **Abrí siempre Voxity con ese acceso directo** y elegí:
    - **JUGAR:** el juego completo.
