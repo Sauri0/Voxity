@@ -31,7 +31,7 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 | ![El jinete en el dragón](docs/imagenes/09_jinete_g1.jpg) | **El jinete firme en la silla**, al galope y en el aire, sin temblar. |
 | ![La foca](docs/imagenes/08_foca.jpg) | **Animales pulidos uno por uno**: articulaciones, giros con arco, reposos nuevos y poses de orilla. |
 
-Además: los animales nacen fuera de la vista y en grupos sueltos con sus crías, el ala planea con física (la picada gana velocidad), el catalejo y las huellas del suelo. Es una versión de pulido: lo que sigue en pulido está en las notas del [release](https://github.com/Sauri0/Voxity/releases/tag/v0.0.9.9.1).
+Además: la **tala nueva** (el árbol que cae es el mismo que estaba parado), el **escalón de un cubo** que se sube caminando, dragones con las alas plegadas en el suelo y más vivas al volar, **la lava de cerca en amarillo y naranja**, el catalejo con zoom a x24, más vida a la vista en la pradera y caballos con manadas de capas mezcladas. Los animales nacen fuera de la vista y en grupos sueltos con sus crías, y el ala planea con física (la picada gana velocidad). Es una versión de pulido: lo que sigue en pulido está en las notas del [release](https://github.com/Sauri0/Voxity/releases/tag/v0.0.9.9.1).
 
 ## Teclas
 
