@@ -22,16 +22,16 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 12 y unos 2 GB libres.
 
-## Lo nuevo (v0.0.9.9)
+## Lo nuevo (v0.0.9.9.1)
 
 | | |
 |---|---|
-| ![Montando un dragón](docs/imagenes/02_dragon.jpg) | **Seis dragones montables**, cada uno con su silla. Vuelan, giran y aterrizan, y cada uno vive en su guarida del mapa. |
-| ![El reino](docs/imagenes/03_reino.jpg) | **El primer reino**, con muralla, castillo y mercado. |
-| ![El pueblo](docs/imagenes/04_pueblo.jpg) | **Un pueblo humano** con gente que camina, charla y trabaja. |
-| ![El agua](docs/imagenes/05_agua.jpg) | **Ríos que nacen de manantiales**, más de mil cascadas y torrentes de agua brava. |
+| ![La lava y la caldera del volcán](docs/imagenes/06_lava.jpg) | **La lava se ve desde arriba**: el lago de la caldera, las caídas y los surcos, de día y de noche, y los seis nidos de los dragones a la escala del dragón del mundo. |
+| ![Las alas nuevas del G6](docs/imagenes/07_alas_g6.jpg) | **Alas nuevas** con brazo, dedos y membrana pegada al cuerpo: se pliegan, se abren y baten. |
+| ![El jinete en el dragón](docs/imagenes/09_jinete_g1.jpg) | **El jinete firme en la silla**, al galope y en el aire, sin temblar. |
+| ![La foca](docs/imagenes/08_foca.jpg) | **Animales pulidos uno por uno**: articulaciones, giros con arco, reposos nuevos y poses de orilla. |
 
-Además trae el ala para planear (se equipa en su casilla), la rueda de herramientas con la **T**, el volcán rehecho, la Cumbre de la Tormenta con relámpagos y mucha más fauna.
+Además: los animales nacen fuera de la vista y en grupos sueltos con sus crías, el ala planea con física (la picada gana velocidad), el árbol que cae es el que estaba parado, el catalejo y las huellas del suelo. Es una versión de pulido: lo que sigue en pulido está en las notas del [release](https://github.com/Sauri0/Voxity/releases/tag/v0.0.9.9.1).
 
 ## Teclas
 
