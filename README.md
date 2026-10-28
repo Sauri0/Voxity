@@ -22,16 +22,11 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 12 y unos 2 GB libres.
 
-## Lo nuevo (v0.0.9.9.1)
+## Lo nuevo (v0.1.0, primera publicación)
 
-| | |
-|---|---|
-| ![La lava y la caldera del volcán](docs/imagenes/06_lava.jpg) | **La lava se ve desde arriba**: el lago de la caldera, las caídas y los surcos, de día y de noche, y los seis nidos de los dragones a la escala del dragón del mundo. |
-| ![Las alas nuevas del G6](docs/imagenes/07_alas_g6.jpg) | **Alas nuevas** con brazo, dedos y membrana pegada al cuerpo: se pliegan, se abren y baten. |
-| ![El jinete en el dragón](docs/imagenes/09_jinete_g1.jpg) | **El jinete firme en la silla**, al galope y en el aire, sin temblar. |
-| ![La foca](docs/imagenes/08_foca.jpg) | **Animales pulidos uno por uno**: articulaciones, giros con arco, reposos nuevos y poses de orilla. |
+**El mundo firme y fluido.** Dos elecciones para el dueño, jugando, en `Pruebas_v0.1.0.cmd`: **el agua** (área 9, 9 aguas por 6 variantes, cada una con su número) y **la flora chica** (área 10, la fila de praderas B, B densa, A, C y D).
 
-Además: **las huellas en la arena** (una fila de pisadas con forma de pie), **el Pozo Verde sin atravesar la roca**, aves que picotean con el pico al suelo y se posan con las alas a medias, **el catalejo que ve de cerca** (con x6, x12 y x24 los árboles lejanos y la pradera se ven con su forma, el suelo en vóxeles hasta el horizonte y aparece lo que vive donde apuntás), la **tala nueva** (el árbol que cae es el mismo que estaba parado), el **escalón de un cubo** que se sube caminando, dragones con las alas plegadas en el suelo y más vivas al volar, **la lava de cerca en amarillo y naranja**, más vida a la vista en la pradera y caballos con manadas de capas mezcladas. Es una versión de pulido: lo que sigue en pulido está en las notas del [release](https://github.com/Sauri0/Voxity/releases/tag/v0.0.9.9.1).
+Además: los costados de los cubos con su propio dibujo en cubitos (ya no se estira el de arriba), la luz propia de las cuevas y los cañones a contraluz, las megazonas firmes de la tanda 1 (el Portón, el Costillar, la Arboleda, los Cuatro Gigantes, las peñas y el pie de las tres playas; se ven en Jugar) y un selector de estación y clima en Pruebas. El LEEME con qué probar en cada área está dentro de la carpeta, y las notas en el [release](https://github.com/Sauri0/Voxity/releases/tag/v0.1.0).
 
 ## Teclas
 
