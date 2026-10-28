@@ -22,11 +22,11 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 12 y unos 2 GB libres.
 
-## Lo nuevo (v0.1.0, primera publicación)
+## Lo nuevo (v0.1.0, segunda publicación)
 
 **El mundo firme y fluido.** Dos elecciones para el dueño, jugando, en `Pruebas_v0.1.0.cmd`: **el agua** (área 9, 9 aguas por 6 variantes, cada una con su número) y **la flora chica** (área 10, la fila de praderas B, B densa, A, C y D).
 
-Además: los costados de los cubos con su propio dibujo en cubitos (ya no se estira el de arriba), la luz propia de las cuevas y los cañones a contraluz, las megazonas firmes de la tanda 1 (el Portón, el Costillar, la Arboleda, los Cuatro Gigantes, las peñas y el pie de las tres playas; se ven en Jugar) y un selector de estación y clima en Pruebas. El LEEME con qué probar en cada área está dentro de la carpeta, y las notas en el [release](https://github.com/Sauri0/Voxity/releases/tag/v0.1.0).
+Nuevo en esta publicación: **`Megazonas_v0.1.0.cmd`** (el mundo de verdad con un menú para viajar a cada una de las 14 megazonas firmes, con el personaje en el suelo), la tanda 2 de las megazonas y el Sendero del Cráter, el arco del agua arreglado, las flores de la flora B que se leen y el archipiélago más liviano de lejos. Además, desde la primera: los costados de los cubos con su propio dibujo, la luz propia de las cuevas y los cañones a contraluz, y el selector de estación y clima en Pruebas. El LEEME con qué probar está dentro de la carpeta, y las notas en el [release](https://github.com/Sauri0/Voxity/releases/tag/v0.1.0-p2).
 
 ## Teclas
 
