@@ -20,13 +20,26 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 > Windows defender puede avisar porque el lanzador es nuevo y no está firmado: tocá «Más información» → «Ejecutar de todas formas».
 
-**Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 12 y unos 2 GB libres.
+**Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.1.0, segunda publicación)
+## Lo nuevo (v0.1.0 · El mundo firme y fluido)
 
-**El mundo firme y fluido.** Dos elecciones para el dueño, jugando, en `Pruebas_v0.1.0.cmd`: **el agua** (área 9, 9 aguas por 6 variantes, cada una con su número) y **la flora chica** (área 10, la fila de praderas B, B densa, A, C y D).
+**La versión completa** ([v0.1.0-final](https://github.com/Sauri0/Voxity/releases/tag/v0.1.0-final)). Trae:
+- **las 33 megazonas firmes**, apoyadas en el suelo, sin aire ni bloques flotando;
+- los costados de los cubos con su propio dibujo;
+- las cuevas con su luz propia: el Primer Asombro, la galería este y la cámara de lava del volcán;
+- el agua sin arcos ni bordes, con la salpicadura;
+- el amanecer y el atardecer «Clara-Dorada»;
+- la pantalla de carga desde el primer cuadro y el cierre del juego sin volcados.
 
-Nuevo en esta publicación: **`Megazonas_v0.1.0.cmd`** (el mundo de verdad con un menú para viajar a cada una de las 14 megazonas firmes, con el personaje en el suelo), la tanda 2 de las megazonas y el Sendero del Cráter, el arco del agua arreglado, las flores de la flora B que se leen y el archipiélago más liviano de lejos. Además, desde la primera: los costados de los cubos con su propio dibujo, la luz propia de las cuevas y los cañones a contraluz, y el selector de estación y clima en Pruebas. El LEEME con qué probar está dentro de la carpeta, y las notas en el [release](https://github.com/Sauri0/Voxity/releases/tag/v0.1.0-p2).
+En **PROBAR** están el área 9, con las aguas para elegir, y el área 10, con la flora, además del selector de estación, clima y luz. Con `Megazonas_v0.1.0.cmd` viajás a cada megazona firme.
+
+![Una megazona firme: el cabo con sus farallones sobre el mar](docs/imagenes/10_v010_megazona.jpg)
+![El paso del Primer Asombro, con su luz propia](docs/imagenes/11_v010_primer_asombro.jpg)
+![La cueva de la Sierra Baja con el brillo turquesa](docs/imagenes/12_v010_cueva.jpg)
+![El sur seco, con la acacia y la luz de la tarde](docs/imagenes/13_v010_sur.jpg)
+
+**Lo que sigue:** la **v0.1.1 «Lo que probaste»** trae el agua de costado con cuerpo, la flora con más variación, los dragones que corren en cuatro patas y el caballo que llamás silbando. Después viene la **v0.1.2: jugar con amigos**.
 
 ## Teclas
 
@@ -47,7 +60,7 @@ Nuevo en esta publicación: **`Megazonas_v0.1.0.cmd`** (el mundo de verdad con u
 
 ## El mundo de pruebas (PROBAR)
 
-Ocho áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas de prueba**:
+Diez áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas de prueba**:
 1. personaje, talar y picar, y la torre del ala;
 2. monturas: los caballos y los seis dragones;
 3. animales en recintos y piletas;
@@ -55,7 +68,9 @@ Ocho áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas
 5. megaestructuras, la Cumbre y el volcán;
 6. modo creativo: construir y hacer aparecer animales y dragones;
 7. agua, luz y sombras;
-8. el pueblo y el reino.
+8. el pueblo y el reino;
+9. las aguas para elegir;
+10. la flora para elegir.
 
 ## Versiones
 
