@@ -22,24 +22,21 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.1.0 · El mundo firme y fluido)
+## Lo nuevo (v0.1.1 · Lo que probaste)
 
-**La versión completa** ([v0.1.0-final](https://github.com/Sauri0/Voxity/releases/tag/v0.1.0-final)). Trae:
-- **las 33 megazonas firmes**, apoyadas en el suelo, sin aire ni bloques flotando;
-- los costados de los cubos con su propio dibujo;
-- las cuevas con su luz propia: el Primer Asombro, la galería este y la cámara de lava del volcán;
-- el agua sin arcos ni bordes, con la salpicadura;
-- el amanecer y el atardecer «Clara-Dorada»;
-- la pantalla de carga desde el primer cuadro y el cierre del juego sin volcados.
+**Lo que pediste probando la v0.1.0** ([v0.1.1](https://github.com/Sauri0/Voxity/releases/tag/v0.1.1)):
+- **el agua de costado para elegir jugando:** 16 variantes en PROBAR, área 9, río 3 (teclas I y Shift+I). La que elijas va a todo el mundo en la v0.1.2;
+- el sonido del agua: suave y de cerca; fuerte en caídas y cascadas;
+- **la flora con más variedad:** la pradera florida adelante y la alfombra tupida solo en algunos lugares, con más formas por bioma (se ve en Ajustes → Calidad → Ultra; ahí todavía traba al caminar, y se arregla en la versión siguiente);
+- sentarse solo en troncos caídos, tocones y asientos; el farol en primera persona, con la mano; el mar no se bebe;
+- los dragones de dos patas corren en cuatro con Shift y el montado vuela hacia donde mirás;
+- **el caballo sin temblar de costado y la X que lo llama silbando**, con la mano a la boca (montado, no);
+- la tala con tantos troncos como largo tiene el árbol, juntar estando al lado (E) y el catalejo con sus sonidos;
+- sin el puente flotante entre islas, y el agua 6D en todo el mundo.
 
-En **PROBAR** están el área 9, con las aguas para elegir, y el área 10, con la flora, además del selector de estación, clima y luz. Con `Megazonas_v0.1.0.cmd` viajás a cada megazona firme.
+![Las aguas de costado para elegir jugando, del 11 al 18](docs/imagenes/14_v011_agua_de_costado.jpg)
 
-![Una megazona firme: el cabo con sus farallones sobre el mar](docs/imagenes/10_v010_megazona.jpg)
-![El paso del Primer Asombro, con su luz propia](docs/imagenes/11_v010_primer_asombro.jpg)
-![La cueva de la Sierra Baja con el brillo turquesa](docs/imagenes/12_v010_cueva.jpg)
-![El sur seco, con la acacia y la luz de la tarde](docs/imagenes/13_v010_sur.jpg)
-
-**Lo que sigue:** la **v0.1.1 «Lo que probaste»** trae el agua de costado con cuerpo, la flora con más variación, los dragones que corren en cuatro patas y el caballo que llamás silbando. Después viene la **v0.1.2: jugar con amigos**.
+**Lo que sigue:** la **v0.1.2: jugar con amigos**, el cooperativo por internet. Arranca después de que se pruebe la v0.1.1.
 
 ## Teclas
 
