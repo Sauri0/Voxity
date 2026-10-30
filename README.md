@@ -12,7 +12,7 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
    - **JUGAR:** el juego completo.
    - **PROBAR:** el mundo de pruebas, con todas las áreas para testear lo nuevo.
 
-**El lanzador se encarga de todo:**
+**El lanzador se encarga de todo** (hoy es el [Lanzador de Voxity · 3](https://github.com/Sauri0/Voxity/releases/tag/lanzador); los anteriores se actualizan solos):
 - cada vez que lo abrís, busca en GitHub si hay una versión nueva y te pregunta si querés actualizar;
 - podés cambiar a otra versión;
 - siempre queda **una sola versión instalada**: la anterior se borra, así no ocupa de más;
@@ -22,21 +22,21 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.1.1 · Lo que probaste)
+## Lo nuevo (v0.1.2 · Jugar con amigos)
 
-**Lo que pediste probando la v0.1.0** ([v0.1.1](https://github.com/Sauri0/Voxity/releases/tag/v0.1.1)):
-- **el agua de costado para elegir jugando:** 16 variantes en PROBAR, área 9, río 3 (teclas I y Shift+I). La que elijas va a todo el mundo en la v0.1.2;
-- el sonido del agua: suave y de cerca; fuerte en caídas y cascadas;
-- **la flora con más variedad:** la pradera florida adelante y la alfombra tupida solo en algunos lugares, con más formas por bioma (se ve en Ajustes → Calidad → Ultra; ahí todavía traba al caminar, y se arregla en la versión siguiente);
-- sentarse solo en troncos caídos, tocones y asientos; el farol en primera persona, con la mano; el mar no se bebe;
-- los dragones de dos patas corren en cuatro con Shift y el montado vuela hacia donde mirás;
-- **el caballo sin temblar de costado y la X que lo llama silbando**, con la mano a la boca (montado, no);
-- la tala con tantos troncos como largo tiene el árbol, juntar estando al lado (E) y el catalejo con sus sonidos;
-- sin el puente flotante entre islas, y el agua 6D en todo el mundo.
+**La primera versión cooperativa** ([v0.1.2](https://github.com/Sauri0/Voxity/releases/tag/v0.1.2)): elegí **«Jugar con amigos»** en el menú de inicio, sé **anfitrión** o **unite** a la partida de otro, y recorran juntos el mismo mundo.
+- **por IP directa** (`192.168.0.5:7770`) o **con tu cuenta** (Clerk + Epic Online Services) para cruzar routers;
+- **se ven con su cuerpo y su montura**; el mundo es de todos: lo que talás, rompés o juntás lo ve el otro, y el que entra tarde ve lo hecho antes;
+- **la fauna es la del anfitrión**: cada uno ve los animales que tiene cerca el anfitrión, y los dragones, los caballos y el catalejo funcionan por jugador;
+- **cada uno con su mochila**: el anfitrión lleva la de cada uno y, al salir, cada uno se lleva lo suyo a su guardado;
+- chat, lista de jugadores y nombres sobre la cabeza; también hay un **servidor aparte** sin ventana;
+- **jugar solo no cambia.**
 
-![Las aguas de costado para elegir jugando, del 11 al 18](docs/imagenes/14_v011_agua_de_costado.jpg)
+**Lo que corregimos de tus pruebas de la v0.1.1:** el número de versión (el F3 y el menú ahora dicen 0.1.2), sin herramientas en la espalda, la montura equipada en el inventario, el vuelo con giros e inclinación, el agua bajo el agua entera, el techo del lugar sin tirones, la flora sin trabas y lo lejano con nieve con relieve y nubes sin franja gris.
 
-**Lo que sigue:** la **v0.1.2: jugar con amigos**, el cooperativo por internet. Arranca después de que se pruebe la v0.1.1.
+**Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
+
+**Lo que sigue:** la **v0.1.3**, con lo que quede pendiente de las pruebas con amigos.
 
 ## Teclas
 
@@ -57,7 +57,7 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 ## El mundo de pruebas (PROBAR)
 
-Diez áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas de prueba**:
+Once áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas de prueba**:
 1. personaje, talar y picar, y la torre del ala;
 2. monturas: los caballos y los seis dragones;
 3. animales en recintos y piletas;
@@ -67,7 +67,8 @@ Diez áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas
 7. agua, luz y sombras;
 8. el pueblo y el reino;
 9. las aguas para elegir;
-10. la flora para elegir.
+10. la flora para elegir;
+11. los animales para revisar.
 
 ## Versiones
 
