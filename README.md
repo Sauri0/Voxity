@@ -12,31 +12,31 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
    - **JUGAR:** el juego completo.
    - **PROBAR:** el mundo de pruebas, con todas las áreas para testear lo nuevo.
 
-**El lanzador se encarga de todo** (hoy es el [Lanzador de Voxity · 3](https://github.com/Sauri0/Voxity/releases/tag/lanzador); los anteriores se actualizan solos):
+**El lanzador se encarga de todo** (hoy es el [Lanzador de Voxity · 5](https://github.com/Sauri0/Voxity/releases/tag/lanzador); los anteriores se actualizan solos):
 - cada vez que lo abrís, busca en GitHub si hay una versión nueva y te pregunta si querés actualizar;
 - podés cambiar a otra versión;
 - siempre queda **una sola versión instalada**: la anterior se borra, así no ocupa de más;
-- también se actualiza a sí mismo.
+- también se actualiza a sí mismo;
+- **entrás a tu cuenta desde el lanzador** (en el navegador) y la sesión pasa al juego; muestra las 3 últimas versiones, los ajustes (resolución, ventana, monitor, calidad) y repara los archivos.
 
 > Windows defender puede avisar porque el lanzador es nuevo y no está firmado: tocá «Más información» → «Ejecutar de todas formas».
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.1.2 · Jugar con amigos)
+## Lo nuevo (v0.1.3 · Jugar con amigos, por tu cuenta)
 
-**La primera versión cooperativa** ([v0.1.2](https://github.com/Sauri0/Voxity/releases/tag/v0.1.2)): elegí **«Jugar con amigos»** en el menú de inicio, sé **anfitrión** o **unite** a la partida de otro, y recorran juntos el mismo mundo.
-- **por IP directa** (`192.168.0.5:7770`) o **con tu cuenta** (Clerk + Epic Online Services) para cruzar routers;
-- **se ven con su cuerpo y su montura**; el mundo es de todos: lo que talás, rompés o juntás lo ve el otro, y el que entra tarde ve lo hecho antes;
-- **la fauna es la del anfitrión**: cada uno ve los animales que tiene cerca el anfitrión, y los dragones, los caballos y el catalejo funcionan por jugador;
-- **cada uno con su mochila**: el anfitrión lleva la de cada uno y, al salir, cada uno se lleva lo suyo a su guardado;
-- chat, lista de jugadores y nombres sobre la cabeza; también hay un **servidor aparte** sin ventana;
-- **jugar solo no cambia.**
+La [v0.1.3](https://github.com/Sauri0/Voxity/releases/tag/v0.1.3) deja el cooperativo sin direcciones ni routers:
+- en el menú de inicio, **«Jugar con amigos»**: abrís tu partida y te muestra un **código** (por ejemplo `ABCD-EFGH`) con un botón **Copiar**; tu amigo lo pega en «Unirme» y entra;
+- **invitar desde adentro** (pausa o Tab) y **cambiar de personaje sin salir de la partida**; la **IP directa** queda como «avanzado»;
+- **si falla la cuenta** seguís jugando solo, con un aviso y un botón para reintentar; si el código no lo abrió nadie, te lo dice;
+- **más firme:** la mochila la maneja el anfitrión (nada se duplica ni se pierde), el otro te ve saltar, caer, colgarte y trepar, y lo que se tala o se rompe queda igual en los dos mundos;
+- **jugar solo no cambia.** Tené Windows Update al día: protege tu cuenta (aviso de seguridad de Unity de octubre).
 
-**Lo que corregimos de tus pruebas de la v0.1.1:** el número de versión (el F3 y el menú ahora dicen 0.1.2), sin herramientas en la espalda, la montura equipada en el inventario, el vuelo con giros e inclinación, el agua bajo el agua entera, el techo del lugar sin tirones, la flora sin trabas y lo lejano con nieve con relieve y nubes sin franja gris.
+**Antes (v0.1.2):** la primera versión cooperativa, por IP directa o con cuenta (Clerk + Epic Online Services); se ven con su cuerpo y su montura, la fauna es la del anfitrión, cada uno con su mochila, chat, lista de jugadores y un servidor aparte sin ventana.
 
 **Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
 
-**Lo que sigue:** la **v0.1.3**, con lo que quede pendiente de las pruebas con amigos.
+**Lo que sigue:** la **v0.1.4**, «El mundo compartido», con lo que falle en las pruebas con amigos.
 
 ## Teclas
 
