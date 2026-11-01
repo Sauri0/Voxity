@@ -12,7 +12,7 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
    - **JUGAR:** el juego completo.
    - **PROBAR:** el mundo de pruebas, con todas las áreas para testear lo nuevo.
 
-**El lanzador se encarga de todo** (hoy es el [Lanzador de Voxity · 5](https://github.com/Sauri0/Voxity/releases/tag/lanzador); los anteriores se actualizan solos):
+**El lanzador se encarga de todo** (hoy es el [Lanzador de Voxity · 6](https://github.com/Sauri0/Voxity/releases/tag/lanzador); los anteriores se actualizan solos):
 - cada vez que lo abrís, busca en GitHub si hay una versión nueva y te pregunta si querés actualizar;
 - podés cambiar a otra versión;
 - siempre queda **una sola versión instalada**: la anterior se borra, así no ocupa de más;
@@ -23,20 +23,23 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.1.3 · Jugar con amigos, por tu cuenta)
+## Lo nuevo (v0.1.4 · El mundo compartido)
 
-La [v0.1.3](https://github.com/Sauri0/Voxity/releases/tag/v0.1.3) deja el cooperativo sin direcciones ni routers:
-- en el menú de inicio, **«Jugar con amigos»**: abrís tu partida y te muestra un **código** (por ejemplo `ABCD-EFGH`) con un botón **Copiar**; tu amigo lo pega en «Unirme» y entra;
-- **invitar desde adentro** (pausa o Tab) y **cambiar de personaje sin salir de la partida**; la **IP directa** queda como «avanzado»;
-- **si falla la cuenta** seguís jugando solo, con un aviso y un botón para reintentar; si el código no lo abrió nadie, te lo dice;
-- **más firme:** la mochila la maneja el anfitrión (nada se duplica ni se pierde), el otro te ve saltar, caer, colgarte y trepar, y lo que se tala o se rompe queda igual en los dos mundos;
-- **jugar solo no cambia.** Tené Windows Update al día: protege tu cuenta (aviso de seguridad de Unity de octubre).
+La [v0.1.4](https://github.com/Sauri0/Voxity/releases/tag/v0.1.4) hace que los dos vean el mismo mundo y lo mismo del otro:
+- **la hora y el clima** son los mismos para los dos: lo que uno pone con F2 (noche, nieve) lo ve el otro, y el otro puede pedir un cambio;
+- **los animales y los dragones** están en el mismo lugar para los dos, también los de lejos;
+- **el otro se ve entero:** nadar, bucear (con burbujas), crol, planear con el ala, el dash y el esquive, el pelo y la capa con el viento, su farol de noche y sus huellas en la arena y en la nieve;
+- **talar y picar juntos:** las piedras rotas no vuelven, y los dos ven las grietas y el árbol que cae;
+- **las monturas:** con X la montás enseguida, el dragón llamado se posa cerca, el de carga abre las alforjas desde Tab, Alt + W camina, W trota y W + Shift galopa, y se ve la montura del otro;
+- **tu partida:** elegís cuántos entran (de 2 a 4) y podés cerrar la entrada desde Invitar;
+- **el lanzador 6** y, en Pruebas, la pileta honda, la pista de la marcha y la nieve para pisar;
+- **jugar solo no cambia.** Tené Windows Update al día: protege tu cuenta (aviso de seguridad de Unity de octubre); esta versión se arma con el editor de Unity que trae esos arreglos.
 
-**Antes (v0.1.2):** la primera versión cooperativa, por IP directa o con cuenta (Clerk + Epic Online Services); se ven con su cuerpo y su montura, la fauna es la del anfitrión, cada uno con su mochila, chat, lista de jugadores y un servidor aparte sin ventana.
+**Antes (v0.1.3):** «Jugar con amigos» por tu cuenta desde el menú de inicio, con un **código** para compartir; la mochila la maneja el anfitrión y el lanzador entra a tu cuenta en el navegador. **Y antes (v0.1.2):** la primera versión cooperativa, por IP directa o con cuenta (Clerk + Epic Online Services), con un servidor aparte sin ventana.
 
 **Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
 
-**Lo que sigue:** la **v0.1.4**, «El mundo compartido», con lo que falle en las pruebas con amigos.
+**Lo que sigue:** la **v0.1.5**, «Entrar, invitar y jugar sin lag», con lo que falle en las pruebas con amigos.
 
 ## Teclas
 
