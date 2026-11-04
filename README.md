@@ -4,42 +4,32 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 ![El menú con la hoguera](docs/imagenes/01_menu.jpg)
 
-## Cómo jugar (3 pasos)
+## Cómo jugar
 
-1. **Bajá el lanzador:** [**VoxityLanzador.exe**](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (menos de 1 MB, con el ícono de la fogata).
-2. **Abrilo.** La primera vez te pregunta en qué carpeta instalar, deja un acceso directo **Voxity** en el escritorio y te ofrece bajar el juego: unos 350 MB, una sola vez.
-3. **Abrí siempre Voxity con ese acceso directo** y elegí:
-   - **JUGAR:** el juego completo.
-   - **PROBAR:** el mundo de pruebas, con todas las áreas para testear lo nuevo.
+1. **Bajá el lanzador:** [VoxityLanzador.exe](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (1,5 MB, con el ícono de la fogata). Guardalo donde quieras: no se instala ni deja accesos directos.
+2. **Abrilo** y tocá **INSTALAR**: baja el juego (unos 760 MB, una sola vez). Arriba a la derecha, **ENTRAR** abre el navegador para entrar o crear tu cuenta.
+3. **JUGAR.** Cada vez que lo abrís busca la versión nueva y te ofrece actualizar.
 
-**El lanzador se encarga de todo** (hoy es el [Lanzador de Voxity · 6](https://github.com/Sauri0/Voxity/releases/tag/lanzador); los anteriores se actualizan solos):
-- cada vez que lo abrís, busca en GitHub si hay una versión nueva y te pregunta si querés actualizar;
-- podés cambiar a otra versión;
-- siempre queda **una sola versión instalada**: la anterior se borra, así no ocupa de más;
-- también se actualiza a sí mismo;
-- **entrás a tu cuenta desde el lanzador** (en el navegador) y la sesión pasa al juego; muestra las 3 últimas versiones, los ajustes (resolución, ventana, monitor, calidad) y repara los archivos.
+> Windows puede avisar porque el lanzador no está firmado: «Más información» → «Ejecutar de todas formas».
 
-> Windows defender puede avisar porque el lanzador es nuevo y no está firmado: tocá «Más información» → «Ejecutar de todas formas».
+## Con un amigo
+1. Los dos con la **misma versión** (el lanzador te avisa si hay una nueva) y con su cuenta (ENTRAR en el lanzador).
+2. En el juego: **Jugar con amigos → Tus amigos**. Pasale tu **código de amigo** (10 letras) o pegá el suyo en «Agregar»; el otro te acepta en «Te llegaron».
+3. El que invita toca **Abrir mi partida**. El otro lo ve en Tus amigos «Con su partida» y toca **Unirme** (o pega el **código de la partida**, 8 letras, en «Unirme»).
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.1.4 · El mundo compartido)
+## Lo nuevo (v0.1.9.3 · «v0.1.X»)
 
-La [v0.1.4](https://github.com/Sauri0/Voxity/releases/tag/v0.1.4) hace que los dos vean el mismo mundo y lo mismo del otro:
-- **la hora y el clima** son los mismos para los dos: lo que uno pone con F2 (noche, nieve) lo ve el otro, y el otro puede pedir un cambio;
-- **los animales y los dragones** están en el mismo lugar para los dos, también los de lejos;
-- **el otro se ve entero:** nadar, bucear (con burbujas), crol, planear con el ala, el dash y el esquive, el pelo y la capa con el viento, su farol de noche y sus huellas en la arena y en la nieve;
-- **talar y picar juntos:** las piedras rotas no vuelven, y los dos ven las grietas y el árbol que cae;
-- **las monturas:** con X la montás enseguida, el dragón llamado se posa cerca, el de carga abre las alforjas desde Tab, Alt + W camina, W trota y W + Shift galopa, y se ve la montura del otro;
-- **tu partida:** elegís cuántos entran (de 2 a 4) y podés cerrar la entrada desde Invitar;
-- **el lanzador 6** y, en Pruebas, la pileta honda, la pista de la marcha y la nieve para pisar;
-- **jugar solo no cambia.** Tené Windows Update al día: protege tu cuenta (aviso de seguridad de Unity de octubre); esta versión se arma con el editor de Unity que trae esos arreglos.
-
-**Antes (v0.1.3):** «Jugar con amigos» por tu cuenta desde el menú de inicio, con un **código** para compartir; la mochila la maneja el anfitrión y el lanzador entra a tu cuenta en el navegador. **Y antes (v0.1.2):** la primera versión cooperativa, por IP directa o con cuenta (Clerk + Epic Online Services), con un servidor aparte sin ventana.
+La [v0.1.9.3](https://github.com/Sauri0/Voxity/releases/tag/v0.1.9.3) es la versión para jugar con un amigo:
+- **la pelea entre jugadores:** el golpe cuerpo a cuerpo entra en las dos direcciones y baja la vida; en la PC del otro se ven y se oyen los golpes, las flechas y la estela;
+- **recibir:** el cuerpo acusa el golpe (frena, retrocede, tambalea), y en una pendiente el golpe busca la altura del otro;
+- **moverse con peso:** arrancar, frenar y doblar corriendo; la 1ª persona bota menos;
+- **morir y reaparecer:** el cuerpo cae, asienta y se desarma; reaparecés en la última fogata o pueblo;
+- **el servidor aparte** ahora lleva los datos del mundo y la pelea anda a través de él;
+- **el lanzador 10** y, en Pruebas, el modo creativo con su cuadrícula, los animales de las áreas 3 y 11 y el pueblo del área 8.
 
 **Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
-
-**Lo que sigue:** la **v0.1.5**, «Entrar, invitar y jugar sin lag», con lo que falle en las pruebas con amigos.
 
 ## Teclas
 
