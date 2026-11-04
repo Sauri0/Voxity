@@ -19,15 +19,13 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.1.9.3 · «v0.1.X»)
+## Lo nuevo (v0.2.1 · El humano, la flora y las rocas)
 
-La [v0.1.9.3](https://github.com/Sauri0/Voxity/releases/tag/v0.1.9.3) es la versión para jugar con un amigo:
-- **la pelea entre jugadores:** el golpe cuerpo a cuerpo entra en las dos direcciones y baja la vida; en la PC del otro se ven y se oyen los golpes, las flechas y la estela;
-- **recibir:** el cuerpo acusa el golpe (frena, retrocede, tambalea), y en una pendiente el golpe busca la altura del otro;
-- **moverse con peso:** arrancar, frenar y doblar corriendo; la 1ª persona bota menos;
-- **morir y reaparecer:** el cuerpo cae, asienta y se desarma; reaparecés en la última fogata o pueblo;
-- **el servidor aparte** ahora lleva los datos del mundo y la pelea anda a través de él;
-- **el lanzador 10** y, en Pruebas, el modo creativo con su cuadrícula, los animales de las áreas 3 y 11 y el pueblo del área 8.
+La [v0.2.1](https://github.com/Sauri0/Voxity/releases/tag/v0.2.1) trae dos versiones juntas:
+- **tu personaje a tu gusto:** la ropa de fantasía rehecha (túnica, jubón, chaleco, capa, botas, sandalias, capucha), las tres edades, más cara y pelo, tintes, un emblema en la capa, y tu forma de caminar y de descansar;
+- **el humano más real:** arranca, frena y dobla con peso, siente el frío y la lluvia, y pelea con sonidos, voz y efectos nuevos;
+- **la flora nueva:** la pradera verde con flores de colores, la flora de cada bioma y, en Pruebas, las praderas para elegir con E;
+- **las rocas:** la roca nueva, con tono, aristas y musgo en manchas, y menos piedras grises sueltas.
 
 **Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
 
