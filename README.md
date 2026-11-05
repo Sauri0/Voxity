@@ -19,13 +19,9 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.2.1 · El humano, la flora y las rocas)
+## Lo nuevo (v0.2.1.1)
 
-La [v0.2.1](https://github.com/Sauri0/Voxity/releases/tag/v0.2.1) trae dos versiones juntas:
-- **tu personaje a tu gusto:** la ropa de fantasía rehecha (túnica, jubón, chaleco, capa, botas, sandalias, capucha), las tres edades, más cara y pelo, tintes, un emblema en la capa, y tu forma de caminar y de descansar;
-- **el humano más real:** arranca, frena y dobla con peso, siente el frío y la lluvia, y pelea con sonidos, voz y efectos nuevos;
-- **la flora nueva:** la pradera verde con flores de colores, la flora de cada bioma y, en Pruebas, las praderas para elegir con E;
-- **las rocas:** la roca nueva, con tono, aristas y musgo en manchas, y menos piedras grises sueltas.
+La [v0.2.1.1](https://github.com/Sauri0/Voxity/releases/tag/v0.2.1.1) es la segunda pasada de la v0.2.1: el humano y la pelea, los menús, morir, la flora y las rocas. Se publicó sin terminar las pruebas: lo que no anda o no se probó está en sus notas.
 
 **Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
 
