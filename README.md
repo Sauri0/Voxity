@@ -19,11 +19,11 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.2.2 · Los animales)
+## Lo nuevo (v0.2.3 · El agua)
 
-En la [v0.2.2](https://github.com/Sauri0/Voxity/releases/tag/v0.2.2) se les puede pegar a los animales en todo el mundo, y caen y se desintegran. Lobo, oso y jabalí se mueven y atacan de nuevo, otros ocho ahora pelean o huyen, y los seis dragones corren y tienen patas nuevas.
+En la [v0.2.3](https://github.com/Sauri0/Voxity/releases/tag/v0.2.3): ríos y cascadas sin las placas oscuras, las lagunas de las islas a la vista, la boca de los ríos en abanico, flora en ríos, lagos y mar, más peces cerca y un bote para ir por el agua. Y la espada ya les pega a los animales chicos con la mira encima.
 
-**Lo que sabemos que falta:** la espada, en 3ª persona, casi no le pega a un animal bajo con la mira encima; el arreglo va en la v0.2.3. El arco anda. Lo demás que no anda o no se vio está en sus notas.
+**Lo que sabemos que falta:** las islas tienen la misma tapa plana de antes, y según la fecha salen heladas. Al bajar del bote en la orilla hay que caminar hasta él para volver a subir. La espada se midió con una prueba, sin que nadie la probara a mano. Lo demás que no anda o no se vio está en sus notas.
 
 **Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
 
