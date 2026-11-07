@@ -19,11 +19,17 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.2.3 · El agua)
+## Lo nuevo (v0.2.6 · Lo que probaste, pulido)
 
-En la [v0.2.3](https://github.com/Sauri0/Voxity/releases/tag/v0.2.3): ríos y cascadas sin las placas oscuras, las lagunas de las islas a la vista, la boca de los ríos en abanico, flora en ríos, lagos y mar, más peces cerca y un bote para ir por el agua. Y la espada ya les pega a los animales chicos con la mira encima.
+En la [v0.2.6](https://github.com/Sauri0/Voxity/releases/tag/v0.2.6):
+- **El agua** sin cortes de color, y con efectos más suaves: quieto casi no se nota, tirarte de alto salpica.
+- **Oxígeno y muerte:** 60 segundos de aire; sin aire morís, con «Reaparecer» o «Menú principal».
+- **La flecha sale derecha:** para pegar lejos levantás la mira vos.
+- **Comandos de operador:** `/op`, `/deop`, `/tp`, `/spawn`, `/kill`, `/health`, `/god` y `/spect`.
+- **Creativo, pesca y bestiario:** 298 de 343 objetos andan con el clic, la caña ya no da latigazos y cada pez muestra tu récord.
+- **El cuerpo:** la C como se pidió y escalar con aguante.
 
-**Lo que sabemos que falta:** las islas tienen la misma tapa plana de antes, y según la fecha salen heladas. Al bajar del bote en la orilla hay que caminar hasta él para volver a subir. La espada se midió con una prueba, sin que nadie la probara a mano. Lo demás que no anda o no se vio está en sus notas.
+**Lo que no se vio jugando:** toda la red (el bote de a dos, la pesca como cliente, `/op` y `/kill` a otro jugador), el bestiario con animales cerca, y los 60 cuadros por segundo en una placa lenta. Está todo en el `LEEME.md` del zip.
 
 **Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
 
@@ -60,5 +66,10 @@ Once áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas
 11. los animales para revisar.
 
 ## Versiones
+
+- **v0.2.6** · Lo que probaste, pulido (la última)
+- v0.2.5 · La vida salvaje y los lugares especiales
+- v0.2.4 · Los gráficos, la fluidez y lo que probaste
+- v0.2.3 · El agua
 
 Todas las versiones están en [Releases](https://github.com/Sauri0/Voxity/releases), y el lanzador las baja solo. Es una versión en desarrollo (pre-alfa): puede haber errores. Si encontrás algo, avisale a quien te pasó el link.
