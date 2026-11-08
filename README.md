@@ -7,7 +7,7 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 ## Cómo jugar
 
 1. **Bajá el lanzador:** [VoxityLanzador.exe](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (1,5 MB, con el ícono de la fogata). Guardalo donde quieras: no se instala ni deja accesos directos.
-2. **Abrilo** y tocá **INSTALAR**: baja el juego (unos 760 MB, una sola vez). Arriba a la derecha, **ENTRAR** abre el navegador para entrar o crear tu cuenta.
+2. **Abrilo** y tocá **INSTALAR**: baja el juego (unos 870 MB, una sola vez). Arriba a la derecha, **ENTRAR** abre el navegador para entrar o crear tu cuenta.
 3. **JUGAR.** Cada vez que lo abrís busca la versión nueva y te ofrece actualizar.
 
 > Windows puede avisar porque el lanzador no está firmado: «Más información» → «Ejecutar de todas formas».
@@ -19,19 +19,16 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.2.6 · Lo que probaste, pulido)
+## Lo nuevo (v0.2.7 · La vida en el agua)
 
-En la [v0.2.6](https://github.com/Sauri0/Voxity/releases/tag/v0.2.6):
-- **El agua** sin cortes de color, y con efectos más suaves: quieto casi no se nota, tirarte de alto salpica.
-- **Oxígeno y muerte:** 60 segundos de aire; sin aire morís, con «Reaparecer» o «Menú principal».
-- **La flecha sale derecha:** para pegar lejos levantás la mira vos.
-- **Comandos de operador:** `/op`, `/deop`, `/tp`, `/spawn`, `/kill`, `/health`, `/god` y `/spect`.
-- **Creativo, pesca y bestiario:** 298 de 343 objetos andan con el clic, la caña ya no da latigazos y cada pez muestra tu récord.
-- **El cuerpo:** la C como se pidió y escalar con aguante.
+En la [v0.2.7](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7):
 
-**Lo que no se vio jugando:** toda la red (el bote de a dos, la pesca como cliente, `/op` y `/kill` a otro jugador), el bestiario con animales cerca, y los 60 cuadros por segundo en una placa lenta. Está todo en el `LEEME.md` del zip.
-
-**Avisos de terceros:** junto al juego viajan `AVISOS_DE_TERCEROS.txt` (FishNet y compañía) y `AVISOS_DE_TERCEROS_EOS.txt` (el SDK de Epic Online Services).
+- **30 especies nuevas del agua**, iguales a sus láminas: tiburones, tiburón ballena, jorobada, cachalote, beluga, narval, manatí, calamar gigante, anaconda, morsa, medusas, caballitos de mar, estrellas, erizos, langostas y más.
+- **Cada una a su hondura y con sus costumbres:** se esconden, suben de noche, salen a respirar, caminan el fondo.
+- **El fondo vivo:** arrecifes, corales, rocas y troncos hundidos, praderas y kelp.
+- **Quién se come a quién, el ciclo de vida** (alevines, crías, nidos, tortuguitas) y **hostiles del agua que lastiman**.
+- **Brillo de noche**, raro y por zonas.
+- **Los Hielos del Norte:** témpanos que derivan, la banquisa y el **Glaciar del Trueno**.
 
 ## Teclas
 
