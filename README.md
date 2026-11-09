@@ -5,9 +5,6 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 ![El menú con la hoguera](docs/imagenes/01_menu.jpg)
 
 ## Cómo jugar
-1. Andá a **[Releases](https://github.com/Sauri0/Voxity/releases/latest)** y bajá el zip de la última versión (`Voxity_vX.Y.Z.zip`).
-2. Descomprimilo en cualquier carpeta.
-3. Abrí uno de los abridores (`.cmd`) de adentro:
 
 1. **Bajá el lanzador:** [VoxityLanzador.exe](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (1,5 MB, con el ícono de la fogata). Guardalo donde quieras: no se instala ni deja accesos directos.
 2. **Abrilo** y tocá **INSTALAR**: baja el juego (unos 870 MB, una sola vez). Arriba a la derecha, **ENTRAR** abre el navegador para entrar o crear tu cuenta.
@@ -22,34 +19,56 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.2.7 · La vida en el agua)
+## Lo nuevo (v0.2.7.1 · El agua violeta)
 
-En la [v0.2.7](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7):
+En la [v0.2.7.1](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7.1):
 
-- **30 especies nuevas del agua**, iguales a sus láminas: tiburones, tiburón ballena, jorobada, cachalote, beluga, narval, manatí, calamar gigante, anaconda, morsa, medusas, caballitos de mar, estrellas, erizos, langostas y más.
-- **Cada una a su hondura y con sus costumbres:** se esconden, suben de noche, salen a respirar, caminan el fondo.
-- **El fondo vivo:** arrecifes, corales, rocas y troncos hundidos, praderas y kelp.
-- **Quién se come a quién, el ciclo de vida** (alevines, crías, nidos, tortuguitas) y **hostiles del agua que lastiman**.
-- **Brillo de noche**, raro y por zonas.
-- **Los Hielos del Norte:** témpanos que derivan, la banquisa y el **Glaciar del Trueno**.
+- **El agua violeta de la Arboleda:** el Lago de la Estrella, el Arroyo Violeta con su cascada hasta el mar, la Bahía Violeta y la Playa Violeta.
+- **Diez especies fantásticas** de agua dulce y salada (geodín, hamaquero, campanero, fuelle, plumón, periscopio, collar perdido, relojero de arena, escafandra y alaseda), con plantas nuevas y las hamacas del lago.
+- **La estela que brilla** de noche al nadar o remar.
+- **La Fosa:** grutas, cuevas, arcos y fumarolas hasta 720 m, con 8 especies que viven solo ahí.
+- **El fondo del mar con relieve y lleno,** el kelp que se dobla de a partes, los peces más abajo y cada especie a su hondura.
+- **El pulpo rehecho,** que se camufla, y **el calamar chico,** que suelta tinta; **plantas en los ríos** donde se esconden los peces chicos.
+- **El hielo con colores de verdad** (4 variantes con F11) y **hielo fino** para caminar sobre el agua.
+- **El pez volador, el clavado al saltar al agua** y, en Pruebas, **los recintos de cada especie**.
 
 ## Teclas
 
 | Tecla | Qué hace |
 |---|---|
-| `Jugar_*.cmd` | El juego como lo ve un jugador: el menú, tus personajes, jugar solo o con amigos. |
-| `Pruebas_*.cmd` | El mundo de pruebas: con Esc → Áreas de prueba vas a cada área (la vida en el agua, los recintos de cada especie, los dragones…), con la hora y el clima a elección. |
-| `Servidor_*.cmd` | El servidor aparte, sin ventana, para jugar con amigos. |
+| **W A S D** | Caminar |
+| **Shift** | Correr |
+| **Espacio** | Saltar; en el aire, abre el ala si la tenés equipada |
+| **E** | Agarrar, sentarse, montar y bajar |
+| **F** (mantener) | Trabajar: talar, picar, partir troncos |
+| **T** (mantener) | Rueda de herramientas: elegís con el ratón |
+| **G** (mantener) | Rueda de gestos |
+| **X** | Llamar a tu caballo |
+| **C** | Agacharse; en un dragón, bajar |
+| **Alt + rueda del ratón** | Alejar o acercar la cámara cuando vas montado |
+| **Tab** | Mochila (en Pruebas, también el creativo) |
+| **Esc** | Menú; en Pruebas, el menú «Áreas de prueba» |
 
-`LEEME.md`, dentro del zip, cuenta qué trae cada versión, qué probar y qué se sabe que falta. Todos los que jueguen juntos tienen que estar en la misma versión.
+## El mundo de pruebas (PROBAR)
 
-## Requisitos
-- Windows 10/11 de 64 bits y una placa de video con DirectX 12.
-- Unos 4 GB libres.
+Once áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas de prueba**:
+1. personaje, talar y picar, y la torre del ala;
+2. monturas: los caballos y los seis dragones;
+3. animales en recintos y piletas;
+4. todos los objetos del mapa;
+5. megaestructuras, la Cumbre y el volcán;
+6. modo creativo: construir y hacer aparecer animales y dragones;
+7. agua, luz y sombras;
+8. el pueblo y el reino;
+9. las aguas para elegir;
+10. la flora para elegir;
+11. los animales para revisar.
 
 ## Versiones
 
-- **v0.2.6** · Lo que probaste, pulido (la última)
+- **v0.2.7.1** · El agua violeta (la última)
+- v0.2.7 · La vida en el agua
+- v0.2.6 · Lo que probaste, pulido
 - v0.2.5 · La vida salvaje y los lugares especiales
 - v0.2.4 · Los gráficos, la fluidez y lo que probaste
 - v0.2.3 · El agua
