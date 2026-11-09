@@ -5,6 +5,9 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 ![El menú con la hoguera](docs/imagenes/01_menu.jpg)
 
 ## Cómo jugar
+1. Andá a **[Releases](https://github.com/Sauri0/Voxity/releases/latest)** y bajá el zip de la última versión (`Voxity_vX.Y.Z.zip`).
+2. Descomprimilo en cualquier carpeta.
+3. Abrí uno de los abridores (`.cmd`) de adentro:
 
 1. **Bajá el lanzador:** [VoxityLanzador.exe](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (1,5 MB, con el ícono de la fogata). Guardalo donde quieras: no se instala ni deja accesos directos.
 2. **Abrilo** y tocá **INSTALAR**: baja el juego (unos 870 MB, una sola vez). Arriba a la derecha, **ENTRAR** abre el navegador para entrar o crear tu cuenta.
@@ -34,33 +37,15 @@ En la [v0.2.7](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7):
 
 | Tecla | Qué hace |
 |---|---|
-| **W A S D** | Caminar |
-| **Shift** | Correr |
-| **Espacio** | Saltar; en el aire, abre el ala si la tenés equipada |
-| **E** | Agarrar, sentarse, montar y bajar |
-| **F** (mantener) | Trabajar: talar, picar, partir troncos |
-| **T** (mantener) | Rueda de herramientas: elegís con el ratón |
-| **G** (mantener) | Rueda de gestos |
-| **X** | Llamar a tu caballo |
-| **C** | Agacharse; en un dragón, bajar |
-| **Alt + rueda del ratón** | Alejar o acercar la cámara cuando vas montado |
-| **Tab** | Mochila (en Pruebas, también el creativo) |
-| **Esc** | Menú; en Pruebas, el menú «Áreas de prueba» |
+| `Jugar_*.cmd` | El juego como lo ve un jugador: el menú, tus personajes, jugar solo o con amigos. |
+| `Pruebas_*.cmd` | El mundo de pruebas: con Esc → Áreas de prueba vas a cada área (la vida en el agua, los recintos de cada especie, los dragones…), con la hora y el clima a elección. |
+| `Servidor_*.cmd` | El servidor aparte, sin ventana, para jugar con amigos. |
 
-## El mundo de pruebas (PROBAR)
+`LEEME.md`, dentro del zip, cuenta qué trae cada versión, qué probar y qué se sabe que falta. Todos los que jueguen juntos tienen que estar en la misma versión.
 
-Once áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas de prueba**:
-1. personaje, talar y picar, y la torre del ala;
-2. monturas: los caballos y los seis dragones;
-3. animales en recintos y piletas;
-4. todos los objetos del mapa;
-5. megaestructuras, la Cumbre y el volcán;
-6. modo creativo: construir y hacer aparecer animales y dragones;
-7. agua, luz y sombras;
-8. el pueblo y el reino;
-9. las aguas para elegir;
-10. la flora para elegir;
-11. los animales para revisar.
+## Requisitos
+- Windows 10/11 de 64 bits y una placa de video con DirectX 12.
+- Unos 4 GB libres.
 
 ## Versiones
 
