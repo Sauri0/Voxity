@@ -19,18 +19,17 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.2.7.1 · El agua violeta)
+## Lo nuevo (v0.2.7.2 · El agua, pulida)
 
-En la [v0.2.7.1](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7.1):
+En la [v0.2.7.2](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7.2):
 
-- **El agua violeta de la Arboleda:** el Lago de la Estrella, el Arroyo Violeta con su cascada hasta el mar, la Bahía Violeta y la Playa Violeta.
-- **Diez especies fantásticas** de agua dulce y salada (geodín, hamaquero, campanero, fuelle, plumón, periscopio, collar perdido, relojero de arena, escafandra y alaseda), con plantas nuevas y las hamacas del lago.
-- **La estela que brilla** de noche al nadar o remar.
-- **La Fosa:** grutas, cuevas, arcos y fumarolas hasta 720 m, con 8 especies que viven solo ahí.
-- **El fondo del mar con relieve y lleno,** el kelp que se dobla de a partes, los peces más abajo y cada especie a su hondura.
-- **El pulpo rehecho,** que se camufla, y **el calamar chico,** que suelta tinta; **plantas en los ríos** donde se esconden los peces chicos.
-- **El hielo con colores de verdad** (4 variantes con F11) y **hielo fino** para caminar sobre el agua.
-- **El pez volador, el clavado al saltar al agua** y, en Pruebas, **los recintos de cada especie**.
+- **Los animales del agua, más vivos:** la anchoa, la trucha, el tiburón blanco, el delfín y el pulpo con el cuerpo en tramos que ondula, la boca, las aletas y los brazos en movimiento. Las demás especies llegan en la v0.2.7.3.
+- **El bote completo:** va a la mochila y aparece al botarlo, se frena en los juncales si vas despacio, se corre solo cuando un témpano lo aprieta, y no se pierde ni se duplica al jugar con un amigo.
+- **Los grandes no se atraviesan:** las ballenas y los tiburones te frenan como una pared.
+- **El que muere bajo el agua** hace lo de la vida real: el pez con vejiga flota panza arriba, el tiburón se hunde y los mamíferos flotan de costado.
+- **El hielo:** el glaciar con su frente nuevo de séracs, grietas azules y lenguas, el hielo celeste en toda la zona, y focas y morsas sobre las placas que derivan.
+- **La Playa Violeta más ancha**, la luna que avisa en el aparejo que de noche las percas no comen, y las ballenas que se ven de lejos desde el bote.
+- **Arreglos del agua:** la Fosa con sus especies a su hondura, el chapoteo, el balde y el flotador, el cuerpo en agua bajita, y el delfín que acompaña también a tu amigo.
 
 ## Teclas
 
@@ -66,7 +65,8 @@ Once áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas
 
 ## Versiones
 
-- **v0.2.7.1** · El agua violeta (la última)
+- **v0.2.7.2** · El agua, pulida (la última)
+- v0.2.7.1 · El agua violeta
 - v0.2.7 · La vida en el agua
 - v0.2.6 · Lo que probaste, pulido
 - v0.2.5 · La vida salvaje y los lugares especiales
