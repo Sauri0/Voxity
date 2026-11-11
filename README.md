@@ -19,17 +19,18 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.2.7.2 · El agua, pulida)
+## Lo nuevo (v0.2.7.3 · La vida del agua, completa)
 
-En la [v0.2.7.2](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7.2):
+En la [v0.2.7.3](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7.3):
 
-- **Los animales del agua, más vivos:** la anchoa, la trucha, el tiburón blanco, el delfín y el pulpo con el cuerpo en tramos que ondula, la boca, las aletas y los brazos en movimiento. Las demás especies llegan en la v0.2.7.3.
-- **El bote completo:** va a la mochila y aparece al botarlo, se frena en los juncales si vas despacio, se corre solo cuando un témpano lo aprieta, y no se pierde ni se duplica al jugar con un amigo.
-- **Los grandes no se atraviesan:** las ballenas y los tiburones te frenan como una pared.
-- **El que muere bajo el agua** hace lo de la vida real: el pez con vejiga flota panza arriba, el tiburón se hunde y los mamíferos flotan de costado.
-- **El hielo:** el glaciar con su frente nuevo de séracs, grietas azules y lenguas, el hielo celeste en toda la zona, y focas y morsas sobre las placas que derivan.
-- **La Playa Violeta más ancha**, la luna que avisa en el aparejo que de noche las percas no comen, y las ballenas que se ven de lejos desde el bote.
-- **Arreglos del agua:** la Fosa con sus especies a su hondura, el chapoteo, el balde y el flotador, el cuerpo en agua bajita, y el delfín que acompaña también a tu amigo.
+- **Todos los animales del agua, vivos:** las 127 especies que faltaban mueven sus partes: las tortugas reman, las rayas ondulan las alas, la langosta y el caballito mueven antenas y patas.
+- **Especies nuevas:** la tortuga gigante de agua, la ballena azul, las serpientes de agua, la nutria marina, los sapos, las salamandras, los tiburoncitos y las rayitas, las ostras y tres cangrejos de la orilla.
+- **Las 7 fantásticas:** la faroleta, la tortuga arrecife, el pez globo de aire, el caballo de espuma, el pulpo de cristal, la raya cometa y la anguila de hilos.
+- **La Isla viva:** una criatura de 61 m que nada con el lomo afuera como una isla y se ve desde muy lejos.
+- **El arrecife con huecos:** cuevitas, arcos y túneles para cruzar nadando, con peces que se esconden.
+- **Los castores:** un dique de palos y barro con su laguna y su casa, donde entran buceando.
+- **Tres momentos:** la red de burbujas de las jorobadas, los salmones que saltan las caídas (y los agarrás con las manos) y la noche del coral, con bolitas rosas que suben del arrecife.
+- **Las perlas:** abrís ostras buceando y a veces hay una perla.
 
 ## Teclas
 
@@ -65,7 +66,8 @@ Once áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas
 
 ## Versiones
 
-- **v0.2.7.2** · El agua, pulida (la última)
+- **v0.2.7.3** · La vida del agua, completa (la última)
+- v0.2.7.2 · El agua, pulida
 - v0.2.7.1 · El agua violeta
 - v0.2.7 · La vida en el agua
 - v0.2.6 · Lo que probaste, pulido
