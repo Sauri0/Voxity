@@ -19,18 +19,17 @@ Un mundo gigante de vóxeles para recorrer a pie, a caballo y en dragón. Talás
 
 **Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
 
-## Lo nuevo (v0.2.7.3 · La vida del agua, completa)
+## Lo nuevo (v0.2.7.4 · El clima y el hielo)
 
-En la [v0.2.7.3](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7.3):
+En la [v0.2.7.4](https://github.com/Sauri0/Voxity/releases/tag/v0.2.7.4):
 
-- **Todos los animales del agua, vivos:** las 127 especies que faltaban mueven sus partes: las tortugas reman, las rayas ondulan las alas, la langosta y el caballito mueven antenas y patas.
-- **Especies nuevas:** la tortuga gigante de agua, la ballena azul, las serpientes de agua, la nutria marina, los sapos, las salamandras, los tiburoncitos y las rayitas, las ostras y tres cangrejos de la orilla.
-- **Las 7 fantásticas:** la faroleta, la tortuga arrecife, el pez globo de aire, el caballo de espuma, el pulpo de cristal, la raya cometa y la anguila de hilos.
-- **La Isla viva:** una criatura de 61 m que nada con el lomo afuera como una isla y se ve desde muy lejos.
-- **El arrecife con huecos:** cuevitas, arcos y túneles para cruzar nadando, con peces que se esconden.
-- **Los castores:** un dique de palos y barro con su laguna y su casa, donde entran buceando.
-- **Tres momentos:** la red de burbujas de las jorobadas, los salmones que saltan las caídas (y los agarrás con las manos) y la noche del coral, con bolitas rosas que suben del arrecife.
-- **Las perlas:** abrís ostras buceando y a veces hay una perla.
+- **El clima de cada lugar:** tormenta, lluvia, nieve, niebla, viento con rumbo y temperatura según la zona, la estación y la hora, igual en las dos PC. Con `/clima` el creador puede forzarlo.
+- **Los lagos que se hielan:** en el invierno, 13 lagos se hielan de verdad: se pisan, el fino se agrieta y se raja bajo tus pies, y abajo el hielo es techo, con bolsas de aire para respirar.
+- **Patinar y caer bajo el hielo:** el hielo resbala, frenás raspando con los pies, y si caés, salís por el agujero.
+- **Pescar en el hielo:** abrís un agujero con el pico y pescás; el pez pelea bajo el hielo.
+- **Los sonidos del clima y del hielo:** aguaceros, vendavales, truenos, el hielo que cruje y se raja.
+- **Los nombres del agua:** al llegar a un río, un lago o el mar aparece su nombre.
+- **El servidor aparte** guarda su mundo afuera de la versión, y el **lanzador 12** ya no se traba con un juego abierto en otra carpeta.
 
 ## Teclas
 
@@ -66,7 +65,8 @@ Once áreas para probar todo de cerca, a las que se llega desde **Esc → Áreas
 
 ## Versiones
 
-- **v0.2.7.3** · La vida del agua, completa (la última)
+- **v0.2.7.4** · El clima y el hielo (la última)
+- v0.2.7.3 · La vida del agua, completa
 - v0.2.7.2 · El agua, pulida
 - v0.2.7.1 · El agua violeta
 - v0.2.7 · La vida en el agua
