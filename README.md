@@ -41,11 +41,10 @@ Las notas completas, con lo medido y las fallas conocidas, están en la [v0.3.0.
 
 ## En camino
 
-Desde la v0.3.0.8 se publica cada cinco versiones: la próxima que se descarga es la **v0.3.1.0**, con todo lo de las del medio.
+Desde la v0.3.0.8 se publica cada cinco versiones. Estas dos ya están cerradas y saldrán juntas en la próxima versión que se descargue; hasta entonces, la última para bajar es la v0.3.0.7.
 
-- **v0.3.0.8 · El sur** (cerrada, sale con la v0.3.1.0): el sudeste con el terreno nuevo y el bancal quebrado, el pasto con volumen y el viento que cruza el campo, cada cara con su luz, el trueno según la distancia, el oído tapado al bucear y el racimo de la siesta.
-- **v0.3.0.9 · Las islas, la bahía y el pulido** (en curso): las islas y las bahías con el terreno nuevo, la ola que borra tus pasos, el halo del pie en la arena mojada y la campana hundida.
-- **v0.3.1.0 · El sol rosado** (la próxima que se descarga): la luz del sol deja de ser limón y la arena al sol pasa a beige rosado, cada cubo con su canto claro y las huellas de los animales.
+- **v0.3.0.8 · El sur** (cerrada): el sudeste con el terreno nuevo y el bancal quebrado, el pasto con volumen y el viento que cruza el campo, cada cara con su luz, el trueno según la distancia, el oído tapado al bucear y el racimo de la siesta.
+- **v0.3.0.9 · Las islas, la bahía y el pulido** (cerrada): tres bahías y cinco islas con el terreno nuevo, la ola que borra tus pasos, el halo del pie en la arena mojada, la bocanada al salir del agua, la campana hundida, la cabeza que ya no gira de más y la carga de la Estepa otra vez rápida.
 
 ## La tanda v0.3.0: el mundo, rehecho zona por zona
 
