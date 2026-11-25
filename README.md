@@ -2,6 +2,10 @@
 
 Un mundo grande de vóxeles para recorrer a pie. Llegás a la costa después de un naufragio, sin nada, y desde ahí juntás piedras y palos, armás tus primeras herramientas, prendés tu fogata y construís. La libreta te guía en la primera hora. Alrededor tenés la Catedral de Basalto, el volcán con sus ríos de lava, valles, estepas y bosques. El clima cambia según la zona y la hora, y los animales viven su día.
 
+![La pantalla principal: el menú en la cueva, con el farol](docs/imagenes/02_inicio.jpg)
+
+![La pantalla principal: el menú en la cueva, con el farol al fondo del pasillo](docs/imagenes/02_inicio.jpg)
+
 ## Cómo jugar
 
 1. **Bajá el lanzador:** [VoxityLanzador.exe](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (1,7 MB). Guardalo donde quieras: no se instala ni deja accesos directos.
@@ -59,6 +63,31 @@ El suelo de todo el mapa se está rehaciendo con un terreno nuevo, a la altura d
 | [v0.3.0.7](https://github.com/Sauri0/Voxity/releases/tag/v0.3.0.7) · La vida cotidiana | La lente y la libreta mojadas, los animales de día, el eco y el trueno |
 
 La v0.3.0.3 y la v0.3.0.4 no se publicaron por separado: lo suyo entró en la v0.3.0.5.
+
+<table>
+<tr>
+<td><img src="docs/imagenes/03_llegada.jpg" alt="La costa de la llegada"></td>
+<td><img src="docs/imagenes/04_volcan.jpg" alt="El volcán, del otro lado de la laguna"></td>
+</tr>
+<tr>
+<td align="center">La costa de la llegada, con las islas en el cielo</td>
+<td align="center">El volcán, del otro lado de una laguna</td>
+</tr>
+<tr>
+<td><img src="docs/imagenes/05_catedral.jpg" alt="La Catedral de Basalto"></td>
+<td><img src="docs/imagenes/06_estepa.jpg" alt="La Estepa"></td>
+</tr>
+<tr>
+<td align="center">La Catedral de Basalto desde la pradera</td>
+<td align="center">El pasto seco de la Estepa, entre bancales</td>
+</tr>
+<tr>
+<td colspan="2"><img src="docs/imagenes/07_bosque.jpg" alt="El bosque"></td>
+</tr>
+<tr>
+<td colspan="2" align="center">El bosque, con hongos y troncos caídos</td>
+</tr>
+</table>
 
 ## Teclas
 
