@@ -4,8 +4,6 @@ Un mundo grande de vóxeles para recorrer a pie. Llegás a la costa después de 
 
 ![La pantalla principal: el menú en la cueva, con el farol](docs/imagenes/02_inicio.jpg)
 
-![La pantalla principal: el menú en la cueva, con el farol al fondo del pasillo](docs/imagenes/02_inicio.jpg)
-
 ## Cómo jugar
 
 1. **Bajá el lanzador:** [VoxityLanzador.exe](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (1,7 MB). Guardalo donde quieras: no se instala ni deja accesos directos.
