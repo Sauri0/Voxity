@@ -7,14 +7,14 @@ Un mundo grande de vóxeles para recorrer a pie. Llegás a la costa después de 
 ## Cómo jugar
 
 1. **Bajá el lanzador:** [VoxityLanzador.exe](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (1,7 MB). Guardalo donde quieras: no se instala ni deja accesos directos.
-2. **Abrilo** y tocá **INSTALAR**: baja la v0.3.0.9, una sola vez (un zip de 465 MB; instalado ocupa 1,3 GB).
+2. **Abrilo** y tocá **INSTALAR**: baja la v0.3.1.0, una sola vez (un zip de 466 MB; instalado ocupa 1,3 GB).
 3. **JUGAR.** Cada vez que lo abrís, busca si hay una versión nueva y te ofrece actualizar: la anterior se borra, pero tus partidas y tus ajustes quedan.
 
 Para jugar no hace falta cuenta. Para jugar con amigos, sí: arriba, el botón **ENTRAR** abre el navegador para entrar o crear la tuya.
 
 > Windows puede avisar porque el lanzador no está firmado: «Más información» → «Ejecutar de todas formas».
 
-**Sin el lanzador:** bajá `Voxity_v0.3.0.9.zip` de la [última versión](https://github.com/Sauri0/Voxity/releases/latest), descomprimilo y abrí `Jugar_v0.3.0.9.cmd`. El mundo de pruebas se abre con `Pruebas_v0.3.0.9.cmd`.
+**Sin el lanzador:** bajá `Voxity_v0.3.1.0.zip` de la [última versión](https://github.com/Sauri0/Voxity/releases/latest), descomprimilo y abrí `Jugar_v0.3.1.0.cmd`. El mundo de pruebas se abre con `Pruebas_v0.3.1.0.cmd`.
 
 **Lo que hace falta:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres para instalar (después quedan 1,3 GB ocupados).
 
@@ -24,27 +24,23 @@ Para jugar no hace falta cuenta. Para jugar con amigos, sí: arriba, el botón *
 2. En el juego: **Jugar con amigos → Tus amigos**. Pasale tu **código de amigo** (10 letras) o pegá el suyo en «Agregar»; el otro te acepta en «Te llegaron».
 3. El que invita toca **Abrir mi partida**. El otro lo ve en Tus amigos, «Con su partida», y toca **Unirme** (o pega el **código de la partida**, 8 letras, en «Unirme»).
 
-La v0.3.0.9 sale sin el servidor aparte: se juega siempre desde la partida de uno de los dos.
+La v0.3.1.0 sale sin el servidor aparte: se juega siempre desde la partida de uno de los dos.
 
-## Lo nuevo (v0.3.0.9 · Las islas, la bahía y el pulido)
+## Lo nuevo (v0.3.1.0 · El sol rosado)
 
-Trae también lo de la v0.3.0.8, «El sur», que se cerró sin publicarse sola.
+- **El sol rosado:** la luz del sol deja el amarillo limón y la arena al sol pasa a un beige rosado. La nieve ya no se ve lila con el sol nuevo.
+- **La última gota de sol:** en la puesta, sobre el mar, un destello verde.
+- **Canto claro y rincón oscuro:** un borde pintado en las aristas al aire de los objetos y las figuras; la que apoya en el suelo queda oscura.
+- **Las huellas de los animales:** en arena, barro y nieve, cada animal de tierra deja su huella por pata, y las huellas envejecen.
+- **Los pasos de los grandes:** búfalos, osos, ciervos, caballos y jabalíes suenan al pisar, y el reno cruje al caminar.
+- **Nadie ignora un árbol que cae:** el estruendo espanta a los animales de alrededor; las crías trotan con la madre.
+- **El Valle sin tirones:** se fue el cuadro largo que aparecía cerca del minuto de entrar.
 
-- **El sur con el terreno nuevo:** las Salinas, la Estepa Seca, la Mesa, la Llanura y las Lomas del Sureste y la Península, con los suelos del sur en su tono y la costra turquesa en los Campos de Cristal.
-- **Tres bahías y cinco islas** rehechas, con lajas y el bancal quebrado en tramos con escalones.
-- **Cada cara con su luz:** las caras en sombra ya no reciben todas la misma luz, y la piel tiene sombra cálida. El alba y la tarde toman ese color.
-- **El viento cruza el campo:** el pasto se acuesta con el viento, con la franja clara de la ráfaga. El pasto con volumen se prende en Pruebas, en la parada del boceto.
-- **En la playa:** la ola que sube por la arena borra tus pasos, y al pisar la arena mojada queda un aro claro alrededor del pie.
-- **Bajo el agua:** a más de 8 m el oído se tapa y vuelve con un «pop»; al salir después de 20 s, una bocanada grande, y los hombros suben al tomar aire.
-- **Los sonidos:** el trueno suena según la distancia del rayo, la pedrada contra una pared hace eco y, en los Islotes de los Naufragios, antes de un temporal, se oye una campana hundida.
-- **El cuerpo:** la cabeza ya no gira como un búho, y el tronco al hombro va afuera, sin meterse en la cara. Los animales ladean la cabeza cuando están quietos.
-- **La llegada, más limpia:** salió el escalón de agua azul que tenías delante al aparecer en la Sabana.
-
-Las notas completas, con lo medido y las fallas conocidas, están en la [v0.3.0.9](https://github.com/Sauri0/Voxity/releases/tag/v0.3.0.9).
+Las notas completas, con lo medido y las fallas conocidas, están en la [v0.3.1.0](https://github.com/Sauri0/Voxity/releases/tag/v0.3.1.0). La anterior para bajar, la [v0.3.0.9](https://github.com/Sauri0/Voxity/releases/tag/v0.3.0.9), trajo el sur, las bahías y las islas con el terreno nuevo.
 
 ## En camino
 
-Desde ahora se publica cada cinco versiones: la próxima para bajar es la **v0.3.1.0 · El sol rosado** (la luz del sol deja el tono limón y la arena al sol pasa a beige rosado), y después la v0.3.1.5, la v0.3.2.0 y así.
+Se publica cada cinco versiones: la próxima para bajar es la **v0.3.1.5**, el cierre del tramo «El cuerpo de verdad»: los pies y las manos que apoyan en el escalón, la roca y la orilla, andar como una persona, y los animales que no salen disparados ni huyen sin motivo.
 
 ## La tanda v0.3.0: el mundo, rehecho zona por zona
 
@@ -59,6 +55,7 @@ El suelo de todo el mapa se está rehaciendo con un terreno nuevo, a la altura d
 | [v0.3.0.6](https://github.com/Sauri0/Voxity/releases/tag/v0.3.0.6) · El este y el centro | La Estepa, la Sabana y la Llanura del Norte; la hora dorada y la lluvia que no cae con sol |
 | [v0.3.0.7](https://github.com/Sauri0/Voxity/releases/tag/v0.3.0.7) · La vida cotidiana | La lente y la libreta mojadas, los animales de día, el eco y el trueno |
 | [v0.3.0.9](https://github.com/Sauri0/Voxity/releases/tag/v0.3.0.9) · Las islas, la bahía y el pulido | El sur, las bahías y las islas con el terreno nuevo; cada cara con su luz, el viento en el pasto y la ola que borra tus pasos |
+| [v0.3.1.0](https://github.com/Sauri0/Voxity/releases/tag/v0.3.1.0) · El sol rosado | El sol que deja el limón, el canto claro de los bloques, las huellas y los pasos de los animales, y el Valle sin tirones |
 
 La v0.3.0.3 y la v0.3.0.4 no se publicaron por separado: lo suyo entró en la v0.3.0.5. Lo de la v0.3.0.8, «El sur», entró en la v0.3.0.9.
 
@@ -134,7 +131,8 @@ En Pruebas, **Tab** abre también el creativo, y las teclas de **F2** a **F9** c
 
 ## Versiones
 
-- **v0.3.0.9** · Las islas, la bahía y el pulido (la última; trae también la v0.3.0.8, El sur)
+- **v0.3.1.0** · El sol rosado (la última)
+- v0.3.0.9 · Las islas, la bahía y el pulido (trae también la v0.3.0.8, El sur)
 - v0.3.0.7 · La vida cotidiana
 - v0.3.0.6 · El este y el centro
 - v0.3.0.5 · El noroeste
