@@ -5,14 +5,16 @@ Un mundo grande de vóxeles para recorrer a pie. Llegás a la costa después de 
 ## Cómo jugar
 
 1. **Bajá el lanzador:** [VoxityLanzador.exe](https://github.com/Sauri0/Voxity/releases/download/lanzador/VoxityLanzador.exe) (1,7 MB). Guardalo donde quieras: no se instala ni deja accesos directos.
-2. **Abrilo** y tocá **INSTALAR**: baja la v0.3.0.7 (un zip de 465 MB, una sola vez). Arriba a la derecha, **ENTRAR** abre el navegador para entrar o crear tu cuenta.
-3. **JUGAR.** Cada vez que lo abrís, busca si hay una versión nueva y te ofrece actualizar. Tus partidas y tus ajustes quedan.
+2. **Abrilo** y tocá **INSTALAR**: baja la v0.3.0.7, una sola vez (un zip de 465 MB; instalado ocupa 1,3 GB).
+3. **JUGAR.** Cada vez que lo abrís, busca si hay una versión nueva y te ofrece actualizar: la anterior se borra, pero tus partidas y tus ajustes quedan.
+
+Para jugar no hace falta cuenta. Para jugar con amigos, sí: arriba, el botón **ENTRAR** abre el navegador para entrar o crear la tuya.
 
 > Windows puede avisar porque el lanzador no está firmado: «Más información» → «Ejecutar de todas formas».
 
 **Sin el lanzador:** bajá `Voxity_v0.3.0.7.zip` de la [última versión](https://github.com/Sauri0/Voxity/releases/latest), descomprimilo y abrí `Jugar_v0.3.0.7.cmd`. El mundo de pruebas se abre con `Pruebas_v0.3.0.7.cmd`.
 
-**Requisitos:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres.
+**Lo que hace falta:** Windows 10 u 11 de 64 bits, una placa de video con DirectX 11 y unos 2 GB libres para instalar (después quedan 1,3 GB ocupados).
 
 ## Con un amigo
 
